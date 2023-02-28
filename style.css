@@ -1,0 +1,21 @@
+.container{
+    margin-bottom: 70px;
+}
+.car-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 50px;
+}
+.price{
+    color: #ff136f;
+}
+#banner-one{
+    font-weight: 500;
+}
+.btn{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100% );
+    color: white;
+    border: none;
+}
