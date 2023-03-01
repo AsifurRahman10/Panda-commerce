@@ -19,3 +19,41 @@
     color: white;
     border: none;
 }
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: darkorchid;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat3{
+    background-color: lightblue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagories{
+    color: white;
+}
+.catagories img{
+    width: 150px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.touch{
+    background-color: #fceae8;
+    height: 250px;
+    border-radius: 10px;
+}
+footer{
+    font-size: 12px;
+    opacity: 80%;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
